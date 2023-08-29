@@ -12,6 +12,9 @@
   <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white" alt="python" width="100">
   </a>
+  <a href="https://www.django-rest-framework.org/">
+  <img src="https://camo.githubusercontent.com/da72ef5dff523df14807de7823dfddd778f9d6738a9197c555f290f16ae3f000/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f444a414e474f2d524553542d6666313730393f7374796c653d666c6174266c6f676f3d646a616e676f266c6f676f436f6c6f723d776869746526636f6c6f723d666631373039266c6162656c436f6c6f723d67726179" alt ='djangorestapi' width="120">
+</a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html" width="100">
   </a>  
@@ -34,7 +37,16 @@
      <img alt="JSON" img src="https://img.shields.io/badge/json-%23000000.svg?style=plastic&logo=json&logoColor=white" alt="json" width="80">
    </a>
    <a href="https://github.com/Bouaskaoun"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="postman" width="100"></a>
-   
+  <a href="https://getbootstrap.com" target="_blank"> 
+    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?logo=bootstrap&logoColor=white" alt="bootstrap" width="100"/>
+  </a>
+  <a href="https://www.canva.com" target="_blank">
+    <img alt="Canva" src="https://img.shields.io/badge/Canva-%2300C4CC.svg?logo=Canva&logoColor=white" alt="canva" width="80">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
+    <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" width="100"/>
+  </a>
+
   
 ## 🌐 Currently:
 - 🚀 Working on crocheting store project.
@@ -42,6 +54,9 @@
 - 📝 Improving skills in creating complex web applications.
 - 🤝 I'm open to work and looking for a team where I can further develop my passions and skills.  
 
+## 💡 About me:
+#### I have always been a person who admired learning as a phenomenon of humanity and a highly enjoyable pursuit. At a certain point, I discovered that programming is nothing but continuous growth, learning new things in response to project needs. Since then, all of my actions have been directed towards becoming a programmer and not only doing it as a hobby, but also dedicating myself to what is most fascinating – constantly improving myself to create valuable content. Additionally, in my free time, I enjoy playing chess, conquering empires in Paradox Interactive strategy games, reading contemporary literature, and playing basketball.
+## 📊 Stats:
 ![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MateuszSwist&background=888888)
 
 
