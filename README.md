@@ -17,7 +17,11 @@
 </a>
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img alt="HTML" src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=plastic&logo=html5&logoColor=white" alt="html" width="100">
-  </a>  
+  </a>
+    </a>
+    <a href="https://www.docker.com/"> 
+    <img alt="docker" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" width="100"/>
+  </a>
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?style=plastic&logo=css3&logoColor=white" alt="CSS" width="80">
   </a>
@@ -45,7 +49,8 @@
   </a>
   <a href="https://www.jetbrains.com/pycharm/" target="_blank"> 
     <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-143?logo=pycharm&logoColor=black&color=black&labelColor=green" width="100"/>
-  </a>
+
+
 
   
 ## 🌐 Currently:
