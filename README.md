@@ -11,6 +11,9 @@
 - 📝 Improving skills in creating complex web applications.
 - 🤝 I'm open to work and looking for a team where I can further develop my passions and skills.  
 ## 💬 Contact and social:
+<a href="https://www.linkedin.com/in/mateusz-%C5%9Bwist/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn" width="100" /></a>
+<a href="swistmat@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail" width="80" /></a>
+<a href="https://www.codewars.com/users/MatS1"><img src="https://www.codewars.com/users/MatS1/badges/micro" alt="Codewars Badge" width="150"></a>
 
 
 
