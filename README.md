@@ -61,8 +61,7 @@
 
 ## 💡 About me:
 #### I have always been a person who admired learning as a phenomenon of humanity and a highly enjoyable pursuit. At a certain point, I discovered that programming is nothing but continuous growth, learning new things in response to project needs. Since then, all of my actions have been directed towards becoming a programmer and not only doing it as a hobby, but also dedicating myself to what is most fascinating – constantly improving myself to create valuable content. Additionally, in my free time, I enjoy playing chess, conquering empires in Paradox Interactive strategy games, reading contemporary literature, and playing basketball.
-## 📊 Stats:
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=MateuszSwist&background=888888)
+
 
 
 
